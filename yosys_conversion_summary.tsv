@@ -1,0 +1,27 @@
+target_id	benchmark	top	format	status	output	log	message
+h18_rtc_clock	hackatdac18	rtc_clock	btor2	SKIPPED	hackatdac18/yosys_out/rtc_clock.btor2	hackatdac18/yosys_out/h18_rtc_clock_btor2.log	output exists
+h18_rtc_clock	hackatdac18	rtc_clock	aig	SKIPPED	hackatdac18/yosys_out/rtc_clock.aig	hackatdac18/yosys_out/h18_rtc_clock_aig.log	output exists
+h18_apb_gpio	hackatdac18	apb_gpio	btor2	SKIPPED	hackatdac18/yosys_out/apb_gpio.btor2	hackatdac18/yosys_out/h18_apb_gpio_btor2.log	output exists
+h18_apb_gpio	hackatdac18	apb_gpio	aig	SKIPPED	hackatdac18/yosys_out/apb_gpio.aig	hackatdac18/yosys_out/h18_apb_gpio_aig.log	output exists
+h18_axi_address_decoder_ar	hackatdac18	axi_address_decoder_AR	btor2	SKIPPED	hackatdac18/yosys_out/axi_address_decoder_AR.btor2	hackatdac18/yosys_out/h18_axi_address_decoder_ar_btor2.log	output exists
+h18_axi_address_decoder_ar	hackatdac18	axi_address_decoder_AR	aig	SKIPPED	hackatdac18/yosys_out/axi_address_decoder_AR.aig	hackatdac18/yosys_out/h18_axi_address_decoder_ar_aig.log	output exists
+h18_jtag_tap_top	hackatdac18	jtag_tap_top	btor2	SKIPPED	hackatdac18/yosys_out/jtag_tap_top.btor2	hackatdac18/yosys_out/h18_jtag_tap_top_btor2.log	output exists
+h18_jtag_tap_top	hackatdac18	jtag_tap_top	aig	SKIPPED	hackatdac18/yosys_out/jtag_tap_top.aig	hackatdac18/yosys_out/h18_jtag_tap_top_aig.log	output exists
+h18_mux_func	hackatdac18	mux_func	btor2	SKIPPED	hackatdac18/yosys_out/mux_func.btor2	hackatdac18/yosys_out/h18_mux_func_btor2.log	output exists
+h18_mux_func	hackatdac18	mux_func	aig	SKIPPED	hackatdac18/yosys_out/mux_func.aig	hackatdac18/yosys_out/h18_mux_func_aig.log	output exists
+h19_axi_address_decoder_ar	hackatdac19	axi_address_decoder_AR	btor2	SKIPPED	hackatdac19/yosys_out/axi_address_decoder_AR.btor2	hackatdac19/yosys_out/h19_axi_address_decoder_ar_btor2.log	output exists
+h19_axi_address_decoder_ar	hackatdac19	axi_address_decoder_AR	aig	SKIPPED	hackatdac19/yosys_out/axi_address_decoder_AR.aig	hackatdac19/yosys_out/h19_axi_address_decoder_ar_aig.log	output exists
+h19_axi_address_decoder_aw	hackatdac19	axi_address_decoder_AW	btor2	SKIPPED	hackatdac19/yosys_out/axi_address_decoder_AW.btor2	hackatdac19/yosys_out/h19_axi_address_decoder_aw_btor2.log	output exists
+h19_axi_address_decoder_aw	hackatdac19	axi_address_decoder_AW	aig	SKIPPED	hackatdac19/yosys_out/axi_address_decoder_AW.aig	hackatdac19/yosys_out/h19_axi_address_decoder_aw_aig.log	output exists
+h19_axi_address_decoder_br	hackatdac19	axi_address_decoder_BR	btor2	SKIPPED	hackatdac19/yosys_out/axi_address_decoder_BR.btor2	hackatdac19/yosys_out/h19_axi_address_decoder_br_btor2.log	output exists
+h19_axi_address_decoder_br	hackatdac19	axi_address_decoder_BR	aig	SKIPPED	hackatdac19/yosys_out/axi_address_decoder_BR.aig	hackatdac19/yosys_out/h19_axi_address_decoder_br_aig.log	output exists
+h19_axi_address_decoder_bw	hackatdac19	axi_address_decoder_BW	btor2	SKIPPED	hackatdac19/yosys_out/axi_address_decoder_BW.btor2	hackatdac19/yosys_out/h19_axi_address_decoder_bw_btor2.log	output exists
+h19_axi_address_decoder_bw	hackatdac19	axi_address_decoder_BW	aig	SKIPPED	hackatdac19/yosys_out/axi_address_decoder_BW.aig	hackatdac19/yosys_out/h19_axi_address_decoder_bw_aig.log	output exists
+h21_sha256	hackatdac21	sha256	btor2	SKIPPED	hackatdac21/yosys_out/sha256.btor2	hackatdac21/yosys_out/h21_sha256_btor2.log	output exists
+h21_sha256	hackatdac21	sha256	aig	SKIPPED	hackatdac21/yosys_out/sha256.aig	hackatdac21/yosys_out/h21_sha256_aig.log	output exists
+h21_aes_192	hackatdac21	aes_192	btor2	SKIPPED	hackatdac21/yosys_out/aes_192.btor2	hackatdac21/yosys_out/h21_aes_192_btor2.log	output exists
+h21_aes_192	hackatdac21	aes_192	aig	SKIPPED	hackatdac21/yosys_out/aes_192.aig	hackatdac21/yosys_out/h21_aes_192_aig.log	output exists
+h21_aes1_core	hackatdac21	aes1_core	btor2	SKIPPED	hackatdac21/yosys_out/aes1_core.btor2	hackatdac21/yosys_out/h21_aes1_core_btor2.log	output exists
+h21_aes1_core	hackatdac21	aes1_core	aig	SKIPPED	hackatdac21/yosys_out/aes1_core.aig	hackatdac21/yosys_out/h21_aes1_core_aig.log	output exists
+h21_rng_32	hackatdac21	rng_32	btor2	SKIPPED	hackatdac21/yosys_out/rng_32.btor2	hackatdac21/yosys_out/h21_rng_32_btor2.log	output exists
+h21_rng_32	hackatdac21	rng_32	aig	SKIPPED	hackatdac21/yosys_out/rng_32.aig	hackatdac21/yosys_out/h21_rng_32_aig.log	output exists

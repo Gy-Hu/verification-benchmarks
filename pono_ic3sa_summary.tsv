@@ -1,0 +1,4 @@
+target_id	benchmark	top	btor2	bad_count	yosys_status	pono_status	note	yosys_log	pono_log
+h18_rtc_clock_formal	hackatdac18	rtc_clock_formal	hackatdac18/yosys_out/rtc_clock_formal.btor2	1	PASS	UNSAT	property proved	hackatdac18/yosys_out/h18_rtc_clock_formal_yosys.log	hackatdac18/yosys_out/h18_rtc_clock_formal_pono.log
+h18_apb_gpio_formal	hackatdac18	apb_gpio_formal	hackatdac18/yosys_out/apb_gpio_formal.btor2	1	PASS	UNSAT	property proved	hackatdac18/yosys_out/h18_apb_gpio_formal_yosys.log	hackatdac18/yosys_out/h18_apb_gpio_formal_pono.log
+h18_mux_func_formal	hackatdac18	mux_func_formal	hackatdac18/yosys_out/mux_func_formal.btor2	1	PASS	SAT	counterexample found	hackatdac18/yosys_out/h18_mux_func_formal_yosys.log	hackatdac18/yosys_out/h18_mux_func_formal_pono.log
